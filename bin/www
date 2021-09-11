@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('dv-turismo:server');
+var debug = require('debug')('dvturismo-covas:server');
 var http = require('http');
 
 /**
